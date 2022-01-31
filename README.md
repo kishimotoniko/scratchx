@@ -1,3 +1,7 @@
+ロボット教室で、小中学生が日本語化されたScratchXでEV3を扱えるようにするためにホスティングしていました。
+
+Flashのサポート終了に伴い ScratchX が使えなくなったため、本リポジトリをアーカイブします。
+
 ## ScratchX
 #### Website for experimental Scratch extensions
 
